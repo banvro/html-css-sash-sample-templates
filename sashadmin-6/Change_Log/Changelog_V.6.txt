@@ -1,0 +1,97 @@
+
+Project Name: Sash – HTML Admin & Dashboard Template.
+
+Version : V.6
+
+Updated-date:  08-Mar-2022 
+
+ 
+ Updates :- 
+
+		1) Switcher style issues are fixed.
+		2) UI issues are fixed.
+		3) Few js files are updated.
+
+***********************************************************************************************************************************************************************************************
+
+
+----------------------------------------------------------------------
+1) Switcher style issues are fixed.
+----------------------------------------------------------------------
+
+step:-1
+
+for scss users
+
+	Please replace below files in css folder :
+
+	  1. dark-style.scss           		root---->(assets/css/dark-style.scss)
+	  2. skin-modes.scss           		root---->(assets/css/skin-modes.scss)
+	  3. transparent-style.scss    		root---->(assets/css/transparent-style.scss)
+	
+Note:- run the gulp command for above scss files after replacing. 
+
+
+for css users
+
+	Please replace below files in css folder :
+
+	  1. dark-style.css           		root---->(assets/css/dark-style.css)
+	  2. skin-modes.css           		root---->(assets/css/skin-modes.css)
+	  3. transparent-style.css    		root---->(assets/css/transparent-style.css)
+
+----------------------------------------------------------------------
+2) UI issues are fixed.
+----------------------------------------------------------------------
+
+	Please replace complete scss  folder   	root---->(assets/scss)
+	
+Note:- run the gulp command for scss i.e, "gulp watch" after replacing the scss folder
+---------------------------------------------------------------------------------------------------------------------------
+
+  NOTE:-If you are using scss files then please run gulp command after changing the files as directed in documentation . If you need to know more about gulp please go through gulp tutorials.
+        If you are using css file no need to run the gulp	
+
+----------------------------------------------------------------------
+3) Few js files are updated.
+----------------------------------------------------------------------
+
+	please replace below mentioned js files in js folder 
+
+		1. custom.js                       root---->(js/custom.js)
+		2. custom1.js                      root---->(js/custom1.js)
+		
+
+Thanking you,
+@spruko.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
